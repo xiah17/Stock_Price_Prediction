@@ -7,8 +7,8 @@ Intended for educational use and experimentation not production financial.
 
 
 # Python dependencies
-maplotlib.pyplot
-numpy
-scipy
-pandas
-yfinance
+- maplotlib.pyplot
+- numpy
+- scipy
+- pandas
+- yfinance
