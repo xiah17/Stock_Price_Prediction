@@ -4,11 +4,22 @@ The project exposes a Flask REST API that serves predictions and model metadata 
 Intended for educational use and experimentation not production financial.
 
 # Features
+- LSTM-based prediction of stock closing prices.
+- Data preprocessing: scaling, sequence generation, splitting.
+- Model training pipeline with callbacks (EarlyStopping, ModelCheckpoint).
+- Evaluation metrics: RMSE, MAE, MSE.
+- Interactive plots: actual vs predicted prices.
+- Flask REST API for serving predictions in real time.
 
+# Visualization
+- Training loss curves.
+- Actual vs Predicted price charts.
+- Comparison across multiple stock symbols.
 
-# Python dependencies
+# Python Dependencies
 - maplotlib.pyplot
 - numpy
 - scipy
 - pandas
 - yfinance
+
