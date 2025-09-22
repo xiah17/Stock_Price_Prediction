@@ -19,7 +19,7 @@ def index ():
     if request.method == 'POST':
         stock = request.form.get('stock')
         if not stock:
-            stock = 'POWERGRID.NS' # Default stock if none is entered
+            stock = 'AAPL' # Default stock if none is entered
         
         # Define the start and end dates for stock data
         start = dt.datetime(2000, 1, 1)
