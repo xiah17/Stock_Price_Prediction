@@ -12,7 +12,6 @@ Intended for educational use and experimentation not production financial.
 - Flask REST API for serving predictions in real time.
 
 # 📊Visualization
-- Training loss curves.
 - Actual vs Predicted price charts.
 - Comparison across multiple stock symbols.
 
