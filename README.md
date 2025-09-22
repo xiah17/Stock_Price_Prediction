@@ -16,9 +16,10 @@ Intended for educational use and experimentation not production financial.
 - Comparison across multiple stock symbols.
 
 # 📦Python Dependencies
-- maplotlib.pyplot
+- maplotlib
 - numpy
-- scipy
 - pandas
+- scikit-learn
 - yfinance
+- tensorflow
 
