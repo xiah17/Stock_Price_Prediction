@@ -7,7 +7,7 @@ Intended for educational use and experimentation not production financial.
 - LSTM-based prediction of stock closing prices.
 - Data preprocessing: scaling, sequence generation, splitting.
 - Model training pipeline with callbacks (EarlyStopping, ModelCheckpoint).
-- Evaluation metrics: RMSE, MAE, MSE.
+- Evaluation metrics: SMA, EMA.
 - Interactive plots: actual vs predicted prices.
 - Flask REST API for serving predictions in real time.
 
