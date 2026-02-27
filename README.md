@@ -1,7 +1,7 @@
-# Stock_Price_Prediction
+# Stock_Price_Prediction_Analytics
 A simple end-to-end stock price prediction project using a Long Short Term Memory (LSTM) neural network implemented in Python (TensorFlow/Keras). 
 The project exposes a Flask REST API that serves predictions and model metadata and includes an optional lightweight frontend for visualization. 
-Intended for educational use and experimentation not production financial.
+Intended for educational used.
 
 # 🧠Features
 - LSTM based prediction of stock closing prices.
@@ -12,7 +12,7 @@ Intended for educational use and experimentation not production financial.
 - Flask REST API for serving predictions in real time.
 
 # 📊Visualization
-- Actual vs Predicted price charts.
+- Actual vs Predicted Analytics price charts.
 - Comparison across multiple stock symbols.
 
 # 📦Python Dependencies
