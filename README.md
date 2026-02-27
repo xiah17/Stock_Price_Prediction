@@ -6,7 +6,7 @@ This Project is intended for Educational Purposes in the field of Software Devel
 # 🧠Features
 - LSTM based prediction of stock closing prices.
 - Data preprocessing: scaling, sequence generation, splitting.
-- Model training pipeline with callbacks (EarlyStopping, ModelCheckpoint).
+- Model training pipeline with callbacks (Early Stopping, Model Checkpoint).
 - Smoothing Techniques: MA, EMA.
 - Interactive plots: actual vs predicted.
 - Flask REST API for serving predictions in real time.
