@@ -13,7 +13,7 @@ This Project is intended for Educational Purposes in the field of Software Devel
 
 # 📊Visualization
 - Actual vs ``Predicted Analytics`` price charts.
-- ``Comparison across multiple stock symbols``.
+- Comparison across multiple stock symbols.
 
 # 📦Python Dependencies
 - maplotlib
