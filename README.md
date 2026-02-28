@@ -16,10 +16,10 @@ This Project is intended for Educational Purposes in the field of Software Devel
 - Comparison across multiple stock symbols.
 
 # 📦Python Dependencies
-- maplotlib
-- numpy
-- pandas
-- scikit-learn
-- yfinance
-- tensorflow
+- ``maplotlib``
+- ``numpy``
+- ``pandas``
+- ``scikit-learn``
+- ``yfinance``
+- ``tensorflow``
 
