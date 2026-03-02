@@ -12,7 +12,7 @@ This Project is for Educational Purposes in the field of Software Development.
 - Flask REST API for serving predictions in real time.
 
 # 📊Visualization
-- Actual vs Predicted Analytics price charts.
+- Actual vs Predicted Analytics price charts..
 - Comparison across multiple stock symbols.
 
 # 📦Python Dependencies
