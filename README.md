@@ -24,4 +24,4 @@ This Project is for Educational and Community Purposes in the field of Software 
 - ``tensorflow``
   
 # Usage
-The leverages historical stock market data along with advanced machine learning techniques to predict future stock prices. Users can visualize trends, compare predicted versus actual prices, and analyze model performance using various metrics. The analytics dashboard provides an interactive interface for exploring predictions and gaining actionable insights for decisions.
+leverages historical stock market data along with advanced machine learning techniques to predict future stock prices. Users can visualize trends, compare predicted versus actual prices, and analyze model performance using various metrics. The analytics dashboard provides an interactive interface for exploring predictions and gaining actionable insights for decisions.
