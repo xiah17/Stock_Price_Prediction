@@ -1,5 +1,5 @@
 # Stock_Price_Prediction_Analytics
-A simple end-to-end stock price prediction project using a Long Short-Term Memory (LSTM) neural network implemented in Python (TensorFlow/Keras). 
+A simple end-to-end stock price prediction project using a Long Short-Term Memory (LSTM) neural network implemented in Python with TensorFlow/Keras. 
 The project exposes a Flask REST API that serves predictions and model metadata and includes an optional lightweight frontend for visualization. 
 This Project is for Educational Purposes in the field of Software Development.
 
